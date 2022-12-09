@@ -1,0 +1,12 @@
+test.py
+templates/index.html
+queries.js
+*.pyc
+models/__pycache__/database.cpython-39.pyc
+*.mongodb
+__pycache__/globals.cpython-310.pyc
+.env
+*__pycache__
+.gcloudignore
+app.yaml
+globals.py
